@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetoContatos</string>
+    <string name="title">Meus Contatos</string>
+    <string name="contact_name">Nome do Contato</string>
+    <string name="contact_phone">Telefone do Contato</string>
+    <string name="contact_mail">Email do contato</string>
+    <string name="birthday">data de aniversario</string>
+    <string name="save">Salvar</string>
+    <string name="family">Familia</string>
+</resources>
